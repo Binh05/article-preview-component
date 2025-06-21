@@ -106,6 +106,7 @@ body {
     display: grid;
     place-content: center;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .content-right .info .share-item {
