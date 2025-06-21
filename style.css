@@ -111,6 +111,7 @@ body {
 
 .content-right .info .share-item {
     z-index: 20;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .content-right .share-container  {
